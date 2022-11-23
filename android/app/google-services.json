@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "3293409472",
+    "project_id": "fspace-2032d",
+    "storage_bucket": "fspace-2032d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3293409472:android:e2c94abb63cae7b05b7d25",
+        "android_client_info": {
+          "package_name": "com.example.space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3293409472-mrqmnlgomclmt9g49pfrbv2ok0cqfga8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWcdOFqcRbNGdo7um5rhsrnmvpwzJjwVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3293409472-mrqmnlgomclmt9g49pfrbv2ok0cqfga8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3293409472:android:4b1bdee86577face5b7d25",
+        "android_client_info": {
+          "package_name": "com.tedtech.Fspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3293409472-mrqmnlgomclmt9g49pfrbv2ok0cqfga8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWcdOFqcRbNGdo7um5rhsrnmvpwzJjwVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3293409472-mrqmnlgomclmt9g49pfrbv2ok0cqfga8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
